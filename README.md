@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BilagoNet
-- 👀 I’m interested to Python
+- 👀 I’m interested to Python, JS
 - 🌱 I’m currently learning Django
 - 📫 Reach me in telegram: @BilagoNet
 
