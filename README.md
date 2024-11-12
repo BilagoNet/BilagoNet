@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BilagoNet
 - 👀 I’m interested to Python, JS
 - 🌱 I’m currently learning Django
-- 📫 Reach me in telegram: @BilagoNet
+- 📫 Reach me in telegram: [@BilagoNet](t.me/bilagonet)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BilagoNet&show_icons=true&count_private=true)
 
